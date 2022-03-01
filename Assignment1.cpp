@@ -3,7 +3,6 @@
 display it as an OpenGL texture and print the pixel values on the command line.
 Notice that while the intput image has only 4 pixels, the rendered texture is
 smooth.  This is because interpolation is done on the GPU.
-jj
   Karl Yerkes and Matt Wright (2011/10/10)
 */
 
